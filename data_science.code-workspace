@@ -3,5 +3,10 @@
 		{
 			"path": "."
 		}
-	]
+	],
+	"settings": {
+		"python.experiments.enabled": false,
+		"python.analysis.usePullDiagnostics": false,
+		"python.analysis.diagnosticMode": "openFilesOnly"
+	}
 }
